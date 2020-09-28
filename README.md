@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🐦 twitter: [@batazor](https://twitter.com/batazor)
+
+🌐 webpage: [batazor](https://batazor.ru)
+
+🐶 [random puppy](https://source.unsplash.com/random/?puppy)
+
 <!--
 **batazor/batazor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
