@@ -4,6 +4,20 @@
 - 💬 Ask me about k8s/go/react
 - 🚀 I love pet-projects!
 
+
+<div align="center">
+  
+## 🤝 Connect with me
+
+[![batazor111@gmail.com](https://img.shields.io/badge/batazor111@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:batazor111@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batazor/)
+[![twitter](https://img.shields.io/badge/batazor%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/batazor)
+[![batazor.ru](https://img.shields.io/badge/batazor.ru%20-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://batazor.ru)
+
+</div>
+
+<br /><br />
+
 <div align="center">
 
 ## 🏆 Github Stats
@@ -27,15 +41,4 @@
 
 </div>
   
-<br /><br />
-  
-<div align="center">
-  
-## 🤝 Connect with me
-
-[![batazor111@gmail.com](https://img.shields.io/badge/batazor111@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:batazor111@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batazor/)
-[![twitter](https://img.shields.io/badge/batazor%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/batazor)
-[![batazor.ru](https://img.shields.io/badge/batazor.ru%20-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://batazor.ru)
-
-</div>
+<br />
