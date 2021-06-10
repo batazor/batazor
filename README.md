@@ -1,9 +1,20 @@
 ## Hi there 👋 I'm Victor
 
-
 - 🇷🇺 I'm live in Moscow, Russia
 - 💬 Ask me about k8s/go/react
 - 🚀 I love pet-projects!
+
+<div align="center">
+
+## 🏆 Github Stats
+  
+<img src="https://github-profile-trophy.vercel.app/?username=batazor&theme=gruvbox&row=1&column=8&no-frame=true" align="center" />
+</div>
+
+<br />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batazor&layout=compact&theme=gruvbox" width="48%" align="right" >
+<img src="https://github-readme-stats.vercel.app/api?username=batazor&show_icons=true&theme=gruvbox" width="48%" >
 
 ## 🛠 My fancy badge area
 
