@@ -22,8 +22,8 @@
 
 ## 🏆 Github Stats
   
-<img src="https://github-profile-trophy.vercel.app/?username=batazor&theme=gruvbox&row=1&column=8&no-frame=true" align="center" />
-</div>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=batazor&theme=gruvbox&row=1&column=8&no-frame=true" align="center" />
+</div> -->
 
 <br />
   
