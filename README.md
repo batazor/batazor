@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Victor
 
-- 🇷🇺 I'm live in Moscow, Russia
+- 🇷🇺 I'm living in Moscow, Russia
 - 💬 Ask me about k8s/go/react
 - 🚀 I love pet-projects!
 
