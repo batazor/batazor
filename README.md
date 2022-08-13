@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Victor
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 - 🇷🇺 I'm living in Moscow, Russia
 - 💬 Ask me about k8s/go/react
