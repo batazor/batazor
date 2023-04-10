@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-- 🇷🇺 I'm living in Moscow, Russia
+- 🇷🇸 I'm living in Belgrade, Serbia
 - 💬 Ask me about k8s/go/react
 - 🚀 I love pet-projects!
 
