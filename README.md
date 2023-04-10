@@ -2,7 +2,7 @@
 
 - 🇷🇸 I'm living in Belgrade, Serbia
 - 💬 Ask me about k8s/go/react
-- 🚀 I love open-sources!
+- 🚀 I love open-source!
 
 
 <div align="center">
